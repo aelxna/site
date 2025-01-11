@@ -1,0 +1,6 @@
+@use '_colors.scss';
+@use '_window.scss';
+
+body {
+    background-color: var(--background);
+}
