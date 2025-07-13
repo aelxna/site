@@ -28,7 +28,7 @@ hr {
 #construction {
   image-rendering: crisp-edges;
   width: 574px;
-  max-width: 100vw;
+  max-width: 90%;
 }
 
 #logo {
