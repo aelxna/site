@@ -25,6 +25,12 @@ hr {
   margin-bottom: 1em;
 }
 
+#construction {
+  image-rendering: crisp-edges;
+  width: 574px;
+  max-width: 100vw;
+}
+
 #logo {
   width: 4em;
   padding: 0.5em;
